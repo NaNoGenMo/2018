@@ -1,8 +1,9 @@
-# NaNoGenMo 2017
+# NaNoGenMo 2018
 
 National Novel Generation Month - based on [an idea Darius tweeted on a whim](https://twitter.com/tinysubversions/status/396305662000775168), where people are challenged to write code that writes a novel.
 
-This is the 2017 edition. For previous years see:
+This is the 2018 edition. For previous years see:
+* [2017](https://github.com/NaNoGenMo/2016)
 * [2016](https://github.com/NaNoGenMo/2016)
 * [2015](https://github.com/dariusk/NaNoGenMo-2015)
 * [2014](https://github.com/dariusk/NaNoGenMo-2014)
@@ -40,7 +41,12 @@ Official admins for NaNoGenMo are @dariusk, @hugovk, @MichaelPaulukonis, and @me
 
 There's [an open issue](../../issues/1) where you can add resources (libraries, corpuses, APIs, techniques, etc).
 
-There are already a ton of resources on the old resources threads for the [2013 edition](https://github.com/dariusk/NaNoGenMo/issues/11), the [2014 edition](https://github.com/dariusk/nanogenmo-2014/issues/1), the [2015 edition](https://github.com/dariusk/NaNoGenMo-2015/issues/1), and the [2016 edition](https://github.com/NaNoGenMo/2016/issues/1).
+There are already a ton of resources on the old resources threads for 
+the [2013 edition](https://github.com/dariusk/NaNoGenMo/issues/11), 
+the [2014 edition](https://github.com/dariusk/nanogenmo-2014/issues/1), 
+the [2015 edition](https://github.com/dariusk/NaNoGenMo-2015/issues/1), 
+the [2016 edition](https://github.com/dariusk/NaNoGenMo-2016/issues/1), 
+and the [2017 edition](https://github.com/NaNoGenMo/2017/issues/1).
 
 You might want to check out [corpora](https://github.com/dariusk/corpora), a repository of public domain lists of things: animals, foods, names, occupations, countries, etc.
 
