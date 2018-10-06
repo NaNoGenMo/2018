@@ -3,7 +3,7 @@
 National Novel Generation Month - based on [an idea Darius tweeted on a whim](https://twitter.com/tinysubversions/status/396305662000775168), where people are challenged to write code that writes a novel.
 
 This is the 2018 edition. For previous years see:
-* [2017](https://github.com/NaNoGenMo/2016)
+* [2017](https://github.com/NaNoGenMo/2017)
 * [2016](https://github.com/NaNoGenMo/2016)
 * [2015](https://github.com/dariusk/NaNoGenMo-2015)
 * [2014](https://github.com/dariusk/NaNoGenMo-2014)
